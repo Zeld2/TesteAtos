@@ -1,0 +1,15 @@
+C:\Users\Zeld\workspace\TesteAtos\bin\Debug\net6.0\TesteAtos.exe
+C:\Users\Zeld\workspace\TesteAtos\bin\Debug\net6.0\TesteAtos.deps.json
+C:\Users\Zeld\workspace\TesteAtos\bin\Debug\net6.0\TesteAtos.runtimeconfig.json
+C:\Users\Zeld\workspace\TesteAtos\bin\Debug\net6.0\TesteAtos.dll
+C:\Users\Zeld\workspace\TesteAtos\bin\Debug\net6.0\TesteAtos.pdb
+C:\Users\Zeld\workspace\TesteAtos\obj\Debug\net6.0\TesteAtos.csproj.AssemblyReference.cache
+C:\Users\Zeld\workspace\TesteAtos\obj\Debug\net6.0\TesteAtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeld\workspace\TesteAtos\obj\Debug\net6.0\TesteAtos.AssemblyInfoInputs.cache
+C:\Users\Zeld\workspace\TesteAtos\obj\Debug\net6.0\TesteAtos.AssemblyInfo.cs
+C:\Users\Zeld\workspace\TesteAtos\obj\Debug\net6.0\TesteAtos.csproj.CoreCompileInputs.cache
+C:\Users\Zeld\workspace\TesteAtos\obj\Debug\net6.0\TesteAtos.dll
+C:\Users\Zeld\workspace\TesteAtos\obj\Debug\net6.0\refint\TesteAtos.dll
+C:\Users\Zeld\workspace\TesteAtos\obj\Debug\net6.0\TesteAtos.pdb
+C:\Users\Zeld\workspace\TesteAtos\obj\Debug\net6.0\TesteAtos.genruntimeconfig.cache
+C:\Users\Zeld\workspace\TesteAtos\obj\Debug\net6.0\ref\TesteAtos.dll
